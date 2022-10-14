@@ -1,0 +1,22 @@
+Analysis and Figures corresponding to Max_Information can be reproduced in the following notebooks 
+Figure 1----Figure 1d showing averages can be found in the Pre_Analysis Notebook 
+Figure 2----Figure 2a can be found in the Method1_K-means_Scree Notebook，Figure 2c-d can be found in the Method1_kmeans_loop_4_clusters
+Figure 3----Figure 3 and associated analysis can be found in Method2_Dictionary Learning notebook
+Figure 4----Insets for Figure 4 can be found in Method2_Dictionary Learning notebook and Method1_k4individual notebook
+
+Method 1
+Figure S6----Representative outliers removed by q filtering----SHO Fitting notebook
+Figure S7----Scree Plot and PCA loading maps from denoising in Method 1----Method1_kmeans_loop_4_clusters
+Figure S8----Results of K=5 analysis----Method1_kmeans_loop_5_clusters notebook
+Figure S9----Inset maps from K-means cluster maps----Method1_k4individual notebook
+
+Method 2
+Figure S10----Onfield Resonance responses of 30 random sampled----PreAnalysis  
+Figure S11----Outlier Removal by K-means Clustering----Method2_Dictionary Learning
+Figure S12----Outlier Removal by Dictionary Learning DL result for N=6 and α=1----Method2_Dictionary Learning
+Figure S13----Outlier Identification by Dictionary Learning DL result for N=4 and α=20----Method2_Dictionary Learning
+Figure S14----Three individual point input responses associated with a DL identified behavior----PreAnalysis
+Figure S15----Blue to red representation of N3 Behavior----Method2_Dictionary Learning
+Figure S16----Reconstruction of mixed ferroelectric and non-ferroelectric responses----PreAnalysis
+Figure S17----Insets for S17----Method2_Dictionary Learning notebook
+Figure S20----Reconstructed vs input responses of individual point----Method2_Dictionary Learning notebook
